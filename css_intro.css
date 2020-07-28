@@ -1,0 +1,11 @@
+h1{
+	font-family: Consolas, Andale Mono, Lucida Console, Lucida Sans Typewriter, Monaco, Courier New, monospace;
+	font-size: 40px;
+	border: 2px solid #19866C;
+	border-radius: 10px;
+	outline: 1px solid #000000;
+	text-align: center;
+	text-shadow: 2px 4px 10px #f0f;
+	color:#FFFFFF;
+
+}
