@@ -1,0 +1,64 @@
+*{
+	font-family: "Comic Sans MS";
+	margin: 0px;
+}
+.main-menu{
+	height: 70px;
+	width: 100%;
+	border: 2px medium #000000;
+	box-shadow: 0px 0px 8px #000000;
+}
+.menu-bar{
+	height: 70px;
+	width: 80%;
+	
+	margin: 0px auto;
+}
+.logo-panel,
+.item-panel{
+	height: 70px;
+	float: left;
+}
+.logo-panel{
+	
+	width: 30%;
+	
+}
+.logo> h2{
+	height: 70px;
+	padding: 14px;
+	color: black;
+	text-align: center;
+	font-size: 35px;
+	cursor: pointer;
+}
+.item-panel{
+	width: 70%;
+	
+	
+}
+.item-panel> ul{
+	width:100%;
+	margin: 0px;
+	padding: 0px;
+	
+}
+.item-panel> ul> li{
+	list-style: none;
+	width: 25%;
+	float: left;
+	font-size: 20px;
+	color:#000000;
+	margin: 0px;
+}
+.item-panel> ul> li> a{
+	text-decoration: none;
+	color: #000000;
+	text-align: center;
+	display: block;
+	
+	padding: 21px;
+}
+.item-panel> ul> li> a:hover{
+	background: #B1C7B1;
+}
