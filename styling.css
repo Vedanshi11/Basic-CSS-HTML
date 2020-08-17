@@ -1,0 +1,220 @@
+*{
+	margin: 0px;
+    padding: 0px;
+}
+section{
+	height: 600px;
+	width: 100%;
+}
+.space{
+	height: 25px;
+	width: inherit;
+	background: #FFFFFF;
+}
+nav{
+	height: 120px;
+	width:inherit;
+}
+nav >h2{
+	font-family: "Book Antiqua";
+	font-size: 70px;
+	text-align: center;
+}
+.main{
+	height: 230px;
+	width: 87%;
+	margin: 0px auto;
+}
+.block-1,
+.block-2,
+.block-3{
+	height: 230px;
+	float: left;
+}
+.block-1{
+	width: 33.5%;
+}
+.logo_panel-1{
+	height: 55px;
+	width: 100%;
+}
+.logo_panel-1> span{
+	font-size: 45px;
+	margin-left: 50%;
+}
+.heading-1{
+	height: 58px;
+	width: 100%;
+}
+.heading-1> h3{
+	font-family: "Constantia, Lucida Bright, DejaVu Serif, Georgia, serif";
+	font-size: 35px;
+	text-align: center;
+	vertical-align: middle;
+}
+.info-1{
+	height: 130px;
+	width: 100%;
+}
+.info-1> p{
+	font-family: "Constantia, Lucida Bright, DejaVu Serif, Georgia, serif";
+	font-size:18px;
+	text-align: center;
+}
+.block-2{
+	width: 33.5%;
+}
+.logo_panel-2{
+	height: 55px;
+	width: 100%;
+}
+.logo_panel-2> span{
+	font-size: 45px;
+	margin-left: 50%;
+}
+.heading-2{
+	height: 58px;
+	width: 100%;
+}
+.heading-2> h3{
+	font-family: "Constantia, Lucida Bright, DejaVu Serif, Georgia, serif";
+	font-size: 35px;
+	text-align: center;
+}
+.info-2{
+	height: 130px;
+	width: 100%;
+}
+.info-2> p{
+	font-family: "Constantia, Lucida Bright, DejaVu Serif, Georgia, serif";
+	font-size:18px;
+	text-align: center;
+}
+.block-3{
+	width: 33%;
+}
+.logo_panel-3{
+	height: 55px;
+	width: 100%;
+}
+.logo_panel-3> span{
+	font-size: 45px;
+	margin-left: 50%;
+}
+.heading-3{
+	height: 58px;
+	width: 100%;
+}
+.heading-3> h3{
+	font-family: "Constantia, Lucida Bright, DejaVu Serif, Georgia, serif";
+	font-size: 35px;
+	text-align: center;
+}
+.info-3{
+	height: 130px;
+	width: 100%;
+}
+.info-3> p{
+	font-family: "Constantia, Lucida Bright, DejaVu Serif, Georgia, serif";
+	font-size:18px;
+	text-align: center;
+}
+.mainn{
+	height: 225px;
+	width: 87%;
+	margin: 0px auto;
+}
+.block-4,
+.block-5,
+.block-6{
+	height: 225px;
+	float: left;
+}
+.block-4{
+	width: 33.5%;
+}
+.logo_panel-4{
+	height: 55px;
+	width: 100%;
+}
+.logo_panel-4> span{
+	font-size: 45px;
+	margin-left: 50%;
+}
+.heading-4{
+	height: 58px;
+	width: 100%;
+}
+.heading-4> h3{
+	font-family: "Constantia, Lucida Bright, DejaVu Serif, Georgia, serif";
+	font-size: 35px;
+	text-align: center;
+}
+.info-4{
+	height: 112px;
+	width: 100%;
+}
+.info-4> p{
+	font-family: "Constantia, Lucida Bright, DejaVu Serif, Georgia, serif";
+	font-size:18px;
+	text-align: center;
+}
+
+.block-5{
+	width: 33.5%;
+}
+.logo_panel-5{
+	height: 55px;
+	width: 100%;
+}
+.logo_panel-5> span{
+	font-size: 45px;
+	margin-left: 50%;
+}
+.heading-5{
+	height: 58px;
+	width: 100%;
+}
+.heading-5> h3{
+	font-family: "Constantia, Lucida Bright, DejaVu Serif, Georgia, serif";
+	font-size: 35px;
+	text-align: center;
+}
+.info-5{
+	height: 112px;
+	width: 100%;
+}
+.info-5> p{
+	font-family: "Constantia, Lucida Bright, DejaVu Serif, Georgia, serif";
+	font-size:18px;
+	text-align: center;
+}
+.block-6{
+	width: 33%;
+}
+.logo_panel-6{
+	height: 55px;
+	width: 100%;
+}
+.logo_panel-6> span{
+	font-size: 45px;
+	margin-left: 50%;
+}
+.heading-6{
+	height: 58px;
+	width: 100%;
+}
+.heading-6> h3{
+	font-family: "Constantia, Lucida Bright, DejaVu Serif, Georgia, serif";
+	font-size: 35px;
+	text-align: center;
+}
+.info-6{
+	height: 112px;
+	width: 100%;
+}
+.info-6> p{
+	font-family: "Constantia, Lucida Bright, DejaVu Serif, Georgia, serif";
+	font-size:18px;
+	text-align: center;
+}
